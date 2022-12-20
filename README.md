@@ -17,38 +17,37 @@ archivo que cree en un nuevo proeycto.
 
 **Sugerencias para un buen README**
 
-***Nombre***
-
+***Nombre*** <br>
 Elija el nombre que se explique por si mismo para su proyecto
 
-***Descripcíon***
+***Descripcíon*** <br>
 Deja que la gente sepa lo que tu proyecto puede hacer específicamente. Proporcione contexto y agregue un enlace a cualquier referencia con la que los visitantes no esten familiarizados.
 Tambien se puede agregar aquí un lista de caracteristicas o una subsección de Antecedentes.
 
-***Insignias***
+***Insignias***<br>
 Imagenes pequeños que transmiten metadatos. Puede usar Shields.
 
-***Visuales***
+***Visuales***<br>
 Dependiendo de lo que esté haciendo, puede ser una buena idea incluir capturas de pantalla o incluso un video. Herramientas como ttygif y Asciinema.
 
-***Uso***
+***Uso***<br>
 Use ejemplos generosamente y muestre el resultado esperado si puede.
 
-***Soporte***
+***Soporte***<br>
 Dígales a las personas dónde pueden acudir para obtener ayuda. Puede ser un chat, dirección de correo, etc.
 
-***Mapa vial***
+***Mapa vial***<br>
 Si tiene ideas para lanzamientos en el futuro, es buena idea enumerarlas en el README.
 
-***Contribuyendo***
+***Contribuyendo***<br>
 Indique si está abierta a las contribuciones y cuáles son sus requisitos para aceptarlos. <br>
 Para personas que desean realizar cambios en su proyecto, es util tener alguna documentación sobre cómo comenzar.
 
-***Autores y reconocimiento***
+***Autores y reconocimiento***<br>
 Muestre su agradecimiento o aquellas que han contribuido al proyecto.
 
-***Licencia***
+***Licencia***<br>
 Para proyectos de c+odigo abierto, diga como se licencia. Es importante incluir una licencia.
 
-***Estado del proyecto***
-Si se qyedi sin energia o tiempo, coloque una nota en la parte superior del README que diga que le desarrollo se ha ralentizado o se ha deteniido por completo.
+***Estado del proyecto***<br>
+Si se a quedado sin energia o tiempo, coloque una nota en la parte superior del README que diga que le desarrollo se ha ralentizado o se ha deteniido por completo.
